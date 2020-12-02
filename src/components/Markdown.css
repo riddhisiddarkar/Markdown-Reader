@@ -20,7 +20,8 @@
   border: none;
   outline: none;
   font-size: 17px;
-   background-color: rgba(161, 243, 240, 0.993);
+  background-color: rgba(161, 243, 240, 0.993);
+  text-align: left;
 }
 @media (max-width: 600px) {
   .markdownreader {
